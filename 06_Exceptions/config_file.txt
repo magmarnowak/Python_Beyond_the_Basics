@@ -1,0 +1,5 @@
+sql_query=SELECT this FROM that WHERE condition
+email_to=me@domain.com
+num_entries=5
+abc=xyz
+thiskey=thisvalue
